@@ -1,10 +1,10 @@
-#By
-se24ucs004-A.Jayasimha Reddy
-se24ucse035-C.Manish Chandra Reddy
-se24ucse034-M.Chanakya Mohan Reddy
-se24ucse062-M.Likith
-
 # AQI Monitoring using a Simple Reflex Agent
+
+By  
+SE24UCS004 - A. Jayasimha Reddy  
+SE24UCSE035 - C. Manish Chandra Reddy  
+SE24UCSE034 - M. Chanakya Mohan Reddy  
+SE24UCSE062 - M. Likith  
 ## Introduction
 
 Air pollution is a serious environmental problem that affects human health and the ecosystem. The Air Quality Index (AQI) is a numerical scale used to indicate the level of air pollution and its potential impact on health.
@@ -27,7 +27,7 @@ Pollutants considered in this project:
 
 These pollutants are major contributors to air pollution and AQI calculations.
 
----
+
 
 ## Agent Design
 
@@ -50,7 +50,7 @@ End
 
 The agent reacts to the **current environmental state only**, without storing past information.
 
----
+
 
 ## Components of the Agent
 
@@ -71,7 +71,7 @@ The agent performs the following actions:
 - Determines AQI category
 - Displays health advisory
 
----
+
 
 ## AQI Classification
 
@@ -86,7 +86,7 @@ AQI values are categorized as follows:
 | 201 – 300 | Very Unhealthy |
 | Above 300 | Hazardous |
 
----
+
 
 ## Architecture
 
@@ -102,6 +102,6 @@ AQI Category Determination
 ↓  
 Health Advisory Output
 
----
+
 
 ## Project Structure
